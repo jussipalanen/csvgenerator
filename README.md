@@ -1,2 +1,2 @@
 # CSV Generator 
-Basic CSV Generator with the basic form. 
+Basic CSV generator written in PHP programming language. 
